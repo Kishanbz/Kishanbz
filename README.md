@@ -25,8 +25,8 @@ class KishanBhanderi:
         self.role        = "Python Data Science Developer"
         self.location    = "India 🇮🇳"
         self.languages   = ["Python 🐍", "SQL"]
-        self.passion     = ["Data Science", "Machine Learning", "Automation"]
-        self.tools       = ["Jupyter", "VS Code", "Git", "Docker", "Streamlit"]
+        self.passion     = ["Data Science", "Machine Learning"]
+        self.tools       = ["Jupyter", "VS Code", "Git"]
         self.currently   = "Building something awesome 🚀"
         self.fun_fact    = "I debug with print() and I'm proud of it 😄"
 
@@ -51,12 +51,6 @@ print(me.say_hi())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-<!-- Deep Learning -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 <!-- Visualization -->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -67,10 +61,7 @@ print(me.say_hi())
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
@@ -81,10 +72,10 @@ print(me.say_hi())
 
 | Skill | Level |
 |-------|-------|
-| 🐍 Python | `█████████▓` 97% |
-| 📊 Data Science & EDA | `████████▓░` 88% |
-| 🤖 Machine Learning | `████████▓░` 85% |
-| 🗄️ SQL & Databases | `███████▓░░` 78% |
+| 🐍 Python | `████████▓` 75% |
+| 📊 Data Science & EDA | `███████▓░` 70% |
+| 🤖 Machine Learning | `███████▓░` 75% |
+| 🗄️ SQL & Databases | `██████▓░░` 68% |
 | 📈 Data Visualization | `███████░░░` 72% |
 
 ---
@@ -93,7 +84,6 @@ print(me.say_hi())
 
 - 🔍 **Exploratory Data Analysis** — uncover patterns hidden in raw data
 - 🤖 **Machine Learning** — build, tune, and deploy predictive models
-- 🧠 **Deep Learning** — neural networks for complex real-world problems
 - 📈 **Data Visualization** — transform numbers into compelling visual stories
 - ⚙️ **Data Pipelines** — automate data collection, cleaning, and transformation
 - 🌐 **ML APIs** — serve models via FastAPI / Streamlit for real use
@@ -116,22 +106,10 @@ print(me.say_hi())
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kishanbhanderi&theme=tokyonight&no-frame=true&margin-w=8&column=6)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
 - 🔥 Large Language Models (LLMs) & Prompt Engineering
-- ☁️ Cloud ML Deployment (AWS / GCP)
 - 📦 MLflow & Model Registry
 - 🕸️ Graph Neural Networks
 
@@ -141,10 +119,10 @@ print(me.say_hi())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanbhanderi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishanbhanderi)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanbhanderi@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kishanbhanderi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-bhanderi-3424102a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishanbz)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanbhandari719@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kishanbhanderi28)
 
 </div>
 
