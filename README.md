@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Kishan%20Bhanderi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=QA%20Tester%20%7C%20Python%20%26%20Data%20Science%20%7C%20AI%20Builder&descAlignY=58&descColor=a5d6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Kishan%20Bhanderi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=QA%20Tester%20%7C%20Python%20and%20Data%20Science%20%7C%20AI%20Builder&descAlignY=58&descColor=a5d6ff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=QA+Tester+%F0%9F%A7%AA;Breaking+things+so+users+don't+%F0%9F%90%9E;Python+%26+Data+Science+%F0%9F%90%8D;Building+AI-powered+apps+%F0%9F%A4%96)](https://git.io/typing-svg)
 
