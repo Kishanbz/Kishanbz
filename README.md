@@ -1,16 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Kishan%20Bhanderi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descColor=a5d6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Kishan%20Bhanderi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=QA%20Tester%20%7C%20Python%20%26%20Data%20Science%20%7C%20AI%20Builder&descAlignY=58&descColor=a5d6ff&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<!-- Typing animation -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Data+Scientist+%F0%9F%93%8A;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%9A%80;Always+Learning+%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=QA+Tester+%F0%9F%A7%AA;Breaking+things+so+users+don't+%F0%9F%90%9E;Python+%26+Data+Science+%F0%9F%90%8D;Building+AI-powered+apps+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,24 +11,13 @@
 
 ## 👨‍💻 About Me
 
-```python
-class KishanBhanderi:
-    def __init__(self):
-        self.name        = "Kishan Bhanderi"
-        self.role        = "Python Data Science Developer"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python 🐍", "SQL"]
-        self.passion     = ["Data Science", "Machine Learning"]
-        self.tools       = ["Jupyter", "VS Code", "Git"]
-        self.currently   = "Building something awesome 🚀"
-        self.fun_fact    = "I debug with print() and I'm proud of it 😄"
+I'm a **QA Tester** with a B.E. in Computer Science & Engineering (Data Science), based in **Ahmedabad, India**.
+I test web applications end to end, across the **UI, REST APIs, and database**, and I build data and AI projects in **Python**.
 
-    def say_hi(self):
-        return "Let's build something incredible with data! 📊"
-
-me = KishanBhanderi()
-print(me.say_hi())
-```
+- 🧪 Manual, functional, regression, smoke, integration, negative, and API testing
+- 🔍 Test case design and clear, reproducible bug reports
+- 🗄️ Data validation with **SQL** across UI, API, and database layers
+- 🤖 Machine learning, EDA, and full-stack AI apps with **FastAPI, PostgreSQL, and LangChain**
 
 ---
 
@@ -43,54 +25,46 @@ print(me.say_hi())
 
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Testing & Tools**<br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- Data Science -->
+**Languages & Backend**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Data Science & ML**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<!-- Visualization -->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<!-- Tools -->
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- BI & Analytics -->
+**BI & Analytics**<br>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Proficiency
+## 🚀 Featured Projects
 
-| Skill | Level |
-|-------|-------|
-| 🐍 Python | `████████▓` 75% |
-| 📊 Data Science & EDA | `███████▓░` 70% |
-| 🤖 Machine Learning | `███████▓░` 75% |
-| 🗄️ SQL & Databases | `██████▓░░` 68% |
-| 📈 Data Visualization | `███████░░░` 72% |
-
----
-
-## 🚀 What I Do
-
-- 🔍 **Exploratory Data Analysis** — uncover patterns hidden in raw data
-- 🤖 **Machine Learning** — build, tune, and deploy predictive models
-- 📈 **Data Visualization** — transform numbers into compelling visual stories
-- ⚙️ **Data Pipelines** — automate data collection, cleaning, and transformation
-- 🌐 **ML APIs** — serve models via FastAPI / Streamlit for real use
+| Project | What it does | Stack |
+|---|---|---|
+| 🧭 **[PathGen-AI](https://github.com/Kishanbz/PathGen-AI)** | Enter any topic and get an interactive, visual learning roadmap with curated resources, progress tracking, and an AI tutor | Next.js · React Flow · FastAPI · PostgreSQL · LangChain · Docker |
+| 💼 **[Employee Salary Prediction](https://github.com/Kishanbz/Employee-Salary-Prediction-UI)** | Linear Regression on 10,000+ employee records, served in a responsive web UI for real-time predictions with no backend server | Python · Scikit-learn · HTML/CSS/JS |
+| 🛒 **[Supermarket Sales Analysis](https://github.com/Kishanbz/Data-Analysis-in-Supermarket-Sales-)** | EDA of retail transactions: sales trends, revenue patterns, customer behavior, and branch performance | Python · Pandas · Matplotlib · Seaborn |
+| 🏏 **[Visualising the Cricket Scorecard](https://github.com/Kishanbz/VISUALISING-THE-CRICKET-SCORECARD)** | Interactive dashboard that turns ball-by-ball data into visual stories of scoring, wickets, and momentum | Tableau |
 
 ---
 
@@ -98,24 +72,21 @@ print(me.say_hi())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishanbhanderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kishanbz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanbhanderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishanbz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kishanbz&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff)
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kishanbhanderi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff)
-
-</div>
-
+---
 
 ## 🌱 Currently Learning
 
+- 🧪 Test automation with **Selenium / Playwright** and **Pytest**
 - 🔥 Large Language Models (LLMs) & Prompt Engineering
 - 📦 MLflow & Model Registry
-- 🕸️ Graph Neural Networks
 
 ---
 
@@ -123,24 +94,11 @@ print(me.say_hi())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-bhanderi-3424102a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishanbz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-bhanderi-3424102a9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanbhandari719@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kishanbhanderi28)
 
-</div>
-
----
-
-<!-- Profile views counter -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kishanbhanderi&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Footer wave -->
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Kishanbz&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=120&section=footer" width="100%"/>
 
